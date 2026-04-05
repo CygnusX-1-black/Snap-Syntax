@@ -1,2 +1,2 @@
-# Snap-Syntax-
+# Snap-Syntax
 web page using html css etcc....
